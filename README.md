@@ -2,6 +2,8 @@
 - MySQL
 - MariaDB
 - MySQLWorkBench
+
+- para acessar o my sql no cmd --> mysql -h localhost -u root -p
 ---
 Básico do banco de dados
 ---
